@@ -7,7 +7,8 @@ The dataset used in this project is a modified version of the Disney Character S
 Project source: https://www.datacamp.com/projects/740
 
 Topics
-* 		Data Manipulation
-* 		Data Visualization
-* 		Probability & Statistics
-* 		Importing & Cleaning Data
+* Data Manipulation
+* Data Visualization
+* Probability & Statistics
+* Importing & Cleaning Data
+
